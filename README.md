@@ -2,7 +2,7 @@
 
 Overview :
 
-This LeadTracker Chrome Extension allows users to easily save and manage important website links or leads directly from their browser. It provides three core features:
+This is a simple Chrome Extension that allows users to easily save and manage important website links or leads directly from their browser. It provides three core features:
 -> Save Input Links: Enter any URL into the input box and save it to a list.
 -> Save Active Tab URL: Save the current active tab's URL directly by clicking the "Save Tab" button.
 -> Clear All Saved Links: Delete all saved links with the "Delete All" button.
